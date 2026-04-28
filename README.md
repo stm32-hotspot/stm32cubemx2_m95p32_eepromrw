@@ -1,0 +1,1 @@
+# stm32cubemx2_m95p32_eepromrw
